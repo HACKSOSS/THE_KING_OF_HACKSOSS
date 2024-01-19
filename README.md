@@ -4,20 +4,16 @@
 ## Preview of after setup completed..
 <img src="git/Screenshot_20240119-163414_Termux.jpg" width="200" hight="220">
 
-##معلومات المبرمج / اسامة فاضل
-@V00_8 قناتي ع تلجرام 
-@KY_112 معرف حسابي ع تلجرام
-@lky_112l معرف حسابي ع انستقرام 
-+967774595600 
+##معلومات المبرمج / اسامة فاضل 
+##@V00_8 قناتي ع تلجرام 
+##@KY_112 معرف حسابي ع تلجرام
+##@lky_112l معرف حسابي ع انستقرام 
+##+967774595600 
 
 
-- [x] oh-my-zsh themes
-- [x] zsh-autosuggest-command plugins
-- [x] zsh-syntax-highlighting plugins
-- [x] termux-banner
-- [x] PS1 with custom trim path indicator
-- [x] Custom prompt cursor
-- [ ] other (git prompt)
+- [x] ستأتي ايام تدرسون فيها اسمي كمناهج اساسيه للتربيه والتعنيف
+- [ ] الجلاد112حاكم الهكسوس شخصيا# 
+
 
 ## Termux keyboard features with shortcuts
 
@@ -38,7 +34,8 @@
 6. after complete all processing just --open new session-- or `source ~/.zshrc`
 7. For remove tool `cd ~/T-header && bash t-header.sh --remove && exit`
 #
-Video guide available on YouTube channel { [Remo773 T-Bag](https://youtu.be/8Duxj_-b4og) }
+اضغط هنا للانضمام الئ قناتي ع يوتيوب { [OSAMH FADEL]([https://youtu.be/8Duxj_-b4og](https://www.youtube.com/@l._?si=uhq8H7rcSgQY5pUV)) }
 
-if anybody have created video guide on YouTube then contact with me. i ll add channel link here. -my Telegram group link [Termux-New-User](https://t.me/joinchat/FY2amVKlBrBQIi3dT_lUug)
-## Don't try without cloning...
+اضغط هنا للانضمام الئ قناتي ع تلجرام [الجلادحاكم الهكسوس 
+](https://t.me/V00_8)
+## جميع الحقوق مطبوعه لدئ الجلاد حاكم الهكسوس#

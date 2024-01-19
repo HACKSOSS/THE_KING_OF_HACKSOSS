@@ -34,7 +34,7 @@
 6. after complete all processing just --open new session-- or `source ~/.zshrc`
 7. For remove tool `cd ~/T-header && bash t-header.sh --remove && exit`
 #
-اضغط هنا للانضمام الئ قناتي ع يوتيوب { [OSAMH FADEL]([https://youtu.be/8Duxj_-b4og](https://www.youtube.com/@l._?si=uhq8H7rcSgQY5pUV)) }
+اضغط هنا للانضمام الئ قناتي ع يوتيوب { [قناتي ع يوتيوب](https://www.youtube.com/@l._?si=uhq8H7rcSgQY5pUV) }
 
 اضغط هنا للانضمام الئ قناتي ع تلجرام [الجلادحاكم الهكسوس 
 ](https://t.me/V00_8)

@@ -2,9 +2,14 @@
 تم تطوير هاذه الاداه بواسطه / المبرمج /اسامة فاضل
 المعروف باسم /الجلاد112حاكم الهكسوس شخصيا
 ## Preview of after setup completed..
-<img src="git/Screenshot_20240119-161140_Termux.jpg" width="200" hight="220">
+<img src="git/Screenshot_20240119-163414_Termux.jpg" width="200" hight="220">
 
-## This script contains popular features
+##معلومات المبرمج / اسامة فاضل
+@V00_8 قناتي ع تلجرام 
+@KY_112 معرف حسابي ع تلجرام
+@lky_112l معرف حسابي ع انستقرام 
++967774595600 
+
 
 - [x] oh-my-zsh themes
 - [x] zsh-autosuggest-command plugins

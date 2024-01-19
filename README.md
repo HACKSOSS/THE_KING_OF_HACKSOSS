@@ -23,17 +23,15 @@
 - [x] other shortcuts need video guide.
 
 ## Download and installation steps
-<img src="https://user-images.githubusercontent.com/28594846/42721978-6b90278c-8761-11e8-97f2-eca4f86e837f.jpeg" width="200" hight="220">
+<img src="git/٢٠٢٣٠٧٠٥_١٩٣٤٤٦.png" width="200" hight="220">
 
 
 1. `apt update && yes | apt upgrade && apt update && apt install git -y`
-2. `git clone https://github.com/remo7777/T-Header.git`
-3. `cd T-Header/`
+2. `git clone 
+https://github.com/HACKSOSS/THE_KING_OF_HACKSOSS`
+3. `cd  THE_KING_OF_HACKSOSS/`
 4. `ls`
-5. `bash t-header.sh`
-6. after complete all processing just --open new session-- or `source ~/.zshrc`
-7. For remove tool `cd ~/T-header && bash t-header.sh --remove && exit`
-#
+5. `bash osamh.sh`
 اضغط هنا للانضمام الئ قناتي ع يوتيوب { [قناتي ع يوتيوب](https://www.youtube.com/@l._?si=uhq8H7rcSgQY5pUV) }
 
  [قناتي ع تلجرام 

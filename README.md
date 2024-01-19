@@ -23,7 +23,7 @@
 - [x] other shortcuts need video guide.
 
 ## Download and installation steps
-<img src="git/٢٠٢٣٠٧٠٥_١٩٣٤٤٦.png" width="200" hight="220">
+<img src="git/٢٠٢٣٠٧٠٥_١٩٣٤٤٦.png" width="400" hight="220">
 
 
 1. `apt update && yes | apt upgrade && apt update && apt install git -y`

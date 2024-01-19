@@ -2,7 +2,7 @@
 تم تطوير هاذه الاداه بواسطه / المبرمج /اسامة فاضل
 المعروف باسم /الجلاد112حاكم الهكسوس شخصيا
 ## Preview of after setup completed..
-<img src="https://user-images.githubusercontent.com/28594846/42722171-e92e650c-8764-11e8-8f65-76a318c1de27.jpeg" width="200" hight="220">
+<img src="git/Screenshot_20240119-155237_Termux.jpg" width="200" hight="220">
 
 ## This script contains popular features
 

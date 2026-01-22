@@ -1,4 +1,6 @@
 # PROGRAMMER OSAMH FADEL
+اداة تغيير ثيم التيرمكس Tirmux واضافة اسمك في الشاشة باوامر بسيطة
+
 تم تطوير هاذه الاداه بواسطه / المبرمج م/اسامة فاضل
 
 ## Preview of after setup completed..
